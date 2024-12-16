@@ -6,7 +6,7 @@
 I'm an aspiring **Data Analyst** based in India, passionate about transforming data into actionable insights and solving business challenges.
 
 - 🌱 Currently diving deeper into **Business Strategy**, **Statistics**, **Python**, **SQL**, **EDA**, **PowerBI**, **Machine Learning**, and **Data Visualization**.
-- ⚡ In my spare time, I enjoy solving data-related challenges on **LeetCode** and **HackerRank**, along with indulging in some football.
+- ⚡ In my spare time, I enjoy solving data-related challenges on **LeetCode** and **HackerRank**, along with indulging in some Badminton.
 - 📫 How to reach me:  
     [Email](mailto:pravallikamaddi244@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pravallikareddy-maddi)
 
