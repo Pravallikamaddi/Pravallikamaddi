@@ -1,6 +1,6 @@
 # Hello Data Folks, I'm Pravallika 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aspiring+Data+Analyst+from+India.;Exploring+Data+Science%2C+Business+Analysis%2C+Machine+Learning%2C+Python%2C+SQL%2C+PowerBI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aspiring+Data+Analyst+ from+India.;Exploring+Data+Science%2C+Business+Analysis%2C+Machine+Learning%2C+Python%2C+SQL%2C+PowerBI)
 
 ## 👨‍💻 About Me:
 I'm an aspiring **Data Analyst** based in India, passionate about transforming data into actionable insights and solving business challenges.
@@ -27,7 +27,7 @@ I'm an aspiring **Data Analyst** based in India, passionate about transforming d
 ![Pravallika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravallikamaddi&show_icons=true&theme=dark&count_private=true)
 
 ## 🚀 My Recent Projects:
-- [Dynamic Retail Dashboard (Excel)](https://github.com/pravallikamaddi)  
+- [Dynamic Retail Dashboard (Excel)](https://github.com/Pravallikamaddi/Dynamic-Retail-Dashboard))  
    A dynamic retail dashboard that helps analyze various retail metrics.
 
 ## 📄 Certifications:
