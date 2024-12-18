@@ -1,7 +1,7 @@
 # Hello Data Folks, I'm Pravallika 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aspiring+Data+Analyst;Business+Analyst;SQL+Developer;Exploring+Data+Science%2C+Business+Analysis%2C+Machine+Learning%2C+Python%2C+SQL%2C+PowerBI)
-![Data Science](https://github.com/Pravallikamaddi/Pravallikamaddi/blob/main/giphy.gif)
+![Data Science]<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy.gif" alt="giphy" width="500">
 
 
 ## 👨‍💻 About Me:
