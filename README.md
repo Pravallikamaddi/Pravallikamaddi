@@ -25,6 +25,7 @@ I'm an aspiring **Data Analyst** based in India, passionate about transforming d
 ## 🔥 GitHub Stats:
 
 ![Pravallika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravallikamaddi&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravallikamaddi&layout=compact&theme=radical)](https://github.com/Pravallikamaddi)
 
 
 ## 🚀 My Recent Projects:
