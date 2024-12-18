@@ -6,7 +6,7 @@
 
 
 
-<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy.gif" alt="giphy" width="300">
+<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy.gif" alt="giphy" width="300" align="center">
 
 
 ## 👨‍💻 About Me:
