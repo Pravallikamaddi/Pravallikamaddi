@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy1.gif" alt="giphy1" width="300">
+  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy1.gif" alt="giphy1" width="400">
 </div>
 
 
