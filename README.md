@@ -6,12 +6,12 @@
 
 
 <div align="center">
-  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy.gif" alt="giphy" width="300">
+  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy1.gif" alt="giphy1" width="300">
 </div>
 
 
 
-## 👨‍💻 About Me:
+##   <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy.gif" alt="giphy" width="50"> About Me:
 I'm an aspiring **Data Analyst** based in India, passionate about transforming data into actionable insights and solving business challenges.
 
 - 🌱 Currently diving deeper into **Business Strategy**, **Statistics**, **Python**, **SQL**, **EDA**, **PowerBI**, **Machine Learning**, and **Data Visualization**.
