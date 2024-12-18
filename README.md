@@ -24,7 +24,8 @@ I'm an aspiring **Data Analyst** based in India, passionate about transforming d
 
 ## 🔥 GitHub Stats:
 
-![Pravallika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravallikamaddi&show_icons=true&theme=dark&count_private=true)
+![Pravallika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravallikamaddi&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
+
 
 ## 🚀 My Recent Projects:
 - [Dynamic Retail Dashboard (Excel)](https://github.com/Pravallikamaddi/Dynamic-Retail-Dashboard))  
@@ -38,7 +39,6 @@ I'm an aspiring **Data Analyst** based in India, passionate about transforming d
 - I have a B.Tech degree in **Electronics and Communication Engineering**.
 - I'm passionate about finding creative solutions to data problems.
 - Always ready for new challenges to learn and grow! 🚀
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravallikamaddi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Pravallika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pravallikamaddi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
