@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="giphy2" width="400">
+  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="giphy2" width="500">
 </div>
 
 
@@ -15,7 +15,9 @@
 I'm an aspiring **Data Analyst** based in India, passionate about transforming data into actionable insights and solving business challenges.
 
 - 🌱 Currently diving deeper into **Business Strategy**, **Statistics**, **Python**, **SQL**, **EDA**, **PowerBI**, **Machine Learning**, and **Data Visualization**.
-  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy1.gif" alt="giphy1" width="80">
+  <div align="right">
+  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy1.gif" alt="giphy1" width="200">
+  </div>
 - ⚡ In my spare time, I enjoy solving data-related challenges on **LeetCode** and **HackerRank**, along with indulging in some Badminton.
 - 📫 How to reach me:  
     [Email](mailto:pravallikamaddi244@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pravallikareddy-maddi)
