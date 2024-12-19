@@ -17,7 +17,7 @@ I'm an aspiring **Data Analyst** based in India, passionate about transforming d
 - 🌱 Currently diving deeper into **Business Strategy**, **Statistics**, **Python**, **SQL**, **EDA**, **PowerBI**, **Machine Learning**, and **Data Visualization**.
   
    <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy1.gif" alt="giphy1" width="200">
-- ⚡ In my spare time, I enjoy solving data-related challenges on **HackerEarth<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/HE.jpeg" alt="HE" width="30">** , **LeetCode<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/L.jpeg" alt="L" width="30">** and **HackerRank<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/HR.jpeg" alt="HR" width="30">**, along with indulging in some Badminton.
+- ⚡ In my spare time, I enjoy solving data-related challenges on **HackerEarth<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/HE.jpeg" alt="HE" width="30">** , **LeetCode<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/L.jpeg" alt="L" width="30">** and **HackerRank<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/HR.jpeg" alt="HR" width="20">**, along with indulging in some Badminton<img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/B.jpeg" alt="B" width="30">.
 - 📫 How to reach me:  
     [Email](mailto:pravallikamaddi244@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pravallikareddy-maddi)
 
