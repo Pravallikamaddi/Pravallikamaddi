@@ -49,11 +49,12 @@ I'm an aspiring **Data Analyst** based in India, passionate about transforming d
 
 ## ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank) Check Out My Live HackerRank Profile!
 
-I'm actively improving my skills on **HackerRank**, where I solve challenges and earn badges. Click below to explore my achievements!
+I'm actively improving my skills on **HackerRank**, where I solve challenges and earn badges. Click below to explore my achievements:
 
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/pravallikamaddi2)
+[Visit my HackerRank Profile](https://www.hackerrank.com/profile/pravallikamaddi2)
 
 Feel free to check out my **HackerRank** profile for live updates on my progress and challenges solved!
+
 
 
 ## ⚡ Fun Facts:
