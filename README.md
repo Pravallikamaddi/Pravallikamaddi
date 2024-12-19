@@ -47,7 +47,7 @@ I'm an aspiring **Data Analyst** based in India, passionate about transforming d
 - [Python for Data Science (Udemy)](https://www.udemy.com/certificate/python_for_data_science)  
 - [Web Development Certificate (Udemy)](https://www.udemy.com/certificate/web-development)
 
-## Check Out My Live HackerRank Profile!
+## ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank) Check Out My Live HackerRank Profile!
 
 I'm actively improving my skills on **HackerRank**, where I solve challenges and earn badges. Click below to explore my achievements!
 
